@@ -1,4 +1,4 @@
-# Hospital Management System
+# Hospital Health_Management_System
 
 A Java-based application to manage hospital operations, including patient registration, appointment scheduling, electronic health records (EHR), billing, inventory, and staff management.
 
